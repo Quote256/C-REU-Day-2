@@ -46,6 +46,7 @@ int main()
 			cout << "What is the radius?:";
 			cin >> radius;
 			cout << endl << 3.14 * (radius*radius) << endl;
+			break;
 
 		default:
 			cout << "I don't understand.\n";
